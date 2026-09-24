@@ -8,6 +8,11 @@ A Streamlit interface allows users to interact with the system through a simple 
 
 ---
 
+## 🖥️ Demo
+
+![Company Manual RAG Assistant](screenshots/app-demo.png)
+
+
 ## 🚀 Features
 
 - PDF text extraction using `pypdf`
